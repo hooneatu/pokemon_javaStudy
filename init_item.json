@@ -1,0 +1,36 @@
+[
+  {
+    "category": "potion",
+    "list": [
+      {
+        "name": "상처약",
+        "amount": 30
+      },
+      {
+        "name": "좋은 상처약",
+        "amount": 15
+      },
+      {
+        "name": "풀 회복약",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "category": "ball",
+    "list": [
+      {
+        "name": "몬스터볼",
+        "amount": 30
+      },
+      {
+        "name": "하이퍼볼",
+        "amount": 15
+      },
+      {
+        "name": "마스터볼",
+        "amount": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "그린",
+    "award": 3000,
+    "pokemonList": [
+      {
+        "name": "피죤투",
+        "health": 140,
+        "attack": 70,
+        "defense": 35,
+        "speed": 4,
+        "type": "FLYING"
+      },
+      {
+        "name": "갸라도스",
+        "health": 150,
+        "attack": 75,
+        "defense": 40,
+        "speed": 4,
+        "type": "WATER"
+      },
+      {
+        "name": "후딘",
+        "health": 120,
+        "attack": 90,
+        "defense": 45,
+        "speed": 4,
+        "type": "PSYCHIC"
+      }
+    ]
+  },
+  {
+    "name": "웅이",
+    "award": 4000,
+    "pokemonList": [
+      {
+        "name": "데구리",
+        "health": 140,
+        "attack": 70,
+        "defense": 45,
+        "speed": 1,
+        "type": "ROCK"
+      },
+      {
+        "name": "뿔카노",
+        "health": 150,
+        "attack": 125,
+        "defense": 45,
+        "speed": 2,
+        "type": "GROUND"
+      },
+      {
+        "name": "롱스톤",
+        "health": 200,
+        "attack": 60,
+        "defense": 50,
+        "speed": 3,
+        "type": "ROCK"
+      }
+    ]
+  },
+  {
+    "name": "이슬",
+    "award": 5000,
+    "pokemonList": [
+      {
+        "name": "아쿠스타",
+        "health": 140,
+        "attack": 80,
+        "defense": 45,
+        "speed": 3,
+        "type": "WATER"
+      },
+      {
+        "name": "골덕",
+        "health": 170,
+        "attack": 85,
+        "defense": 45,
+        "speed": 2,
+        "type": "WATER"
+      },
+      {
+        "name": "라프라스",
+        "health": 180,
+        "attack": 90,
+        "defense": 30,
+        "speed": 3,
+        "type": "WATER"
+      }
+    ]
+  },
+  {
+    "name": "레드",
+    "award": 10000,
+    "pokemonList": [
+      {
+        "name": "피카츄",
+        "health": 150,
+        "attack": 60,
+        "defense": 25,
+        "speed": 5,
+        "type": "ELECTRIC"
+      },
+      {
+        "name": "에브이",
+        "health": 140,
+        "attack": 80,
+        "defense": 25,
+        "speed": 4,
+        "type": "PSYCHIC"
+      },
+      {
+        "name": "잠만보",
+        "health": 200,
+        "attack": 55,
+        "defense": 90,
+        "speed": 1,
+        "type": "NORMAL"
+      },
+      {
+        "name": "이상해꽃",
+        "health": 180,
+        "attack": 70,
+        "defense": 40,
+        "speed": 3,
+        "type": "GRASS"
+      },
+      {
+        "name": "리자몽",
+        "health": 180,
+        "attack": 85,
+        "defense": 40,
+        "speed": 5,
+        "type": "FIRE"
+      },
+      {
+        "name": "거북왕",
+        "health": 200,
+        "attack": 90,
+        "defense": 50,
+        "speed": 2,
+        "type": "WATER"
+      }
+    ]
+  }
+]

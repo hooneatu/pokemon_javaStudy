@@ -1,0 +1,210 @@
+[
+  {
+    "name": "피카츄",
+    "health": 120,
+    "attack": 65,
+    "defense": 30,
+    "speed": 4,
+    "type": "ELECTRIC"
+  },
+  {
+    "name": "버터플",
+    "health": 120,
+    "attack": 55,
+    "defense": 25,
+    "speed": 5,
+    "type": "BUG"
+  },
+  {
+    "name": "구구",
+    "health": 100,
+    "attack": 55,
+    "defense": 40,
+    "speed": 2,
+    "type": "FLYING"
+  },
+  {
+    "name": "레트라",
+    "health": 120,
+    "attack": 70,
+    "defense": 55,
+    "speed": 5,
+    "type": "NORMAL"
+  },
+  {
+    "name": "깨비참",
+    "health": 100,
+    "attack": 55,
+    "defense": 45,
+    "speed": 4,
+    "type": "BUG"
+  },
+  {
+    "name": "독침붕",
+    "health": 110,
+    "attack": 80,
+    "defense": 50,
+    "speed": 5,
+    "type": "BUG"
+  },
+  {
+    "name": "피죤",
+    "health": 120,
+    "attack": 70,
+    "defense": 55,
+    "speed": 4,
+    "type": "FLYING"
+  },
+  {
+    "name": "피죤투",
+    "health": 140,
+    "attack": 85,
+    "defense": 70,
+    "speed": 5,
+    "type": "FLYING"
+  },
+  {
+    "name": "아보",
+    "health": 95,
+    "attack": 60,
+    "defense": 45,
+    "speed": 4,
+    "type": "POISON"
+  },
+  {
+    "name": "아보크",
+    "health": 130,
+    "attack": 85,
+    "defense": 70,
+    "speed": 4,
+    "type": "POISON"
+  },
+  {
+    "name": "모래두지",
+    "health": 110,
+    "attack": 75,
+    "defense": 85,
+    "speed": 3,
+    "type": "GROUND"
+  },
+  {
+    "name": "고지",
+    "health": 150,
+    "attack": 100,
+    "defense": 110,
+    "speed": 3,
+    "type": "GROUND"
+  },
+  {
+    "name": "리자몽",
+    "health": 180,
+    "attack": 95,
+    "defense": 45,
+    "speed": 5,
+    "type": "FIRE"
+  },
+  {
+    "name": "잠만보",
+    "health": 200,
+    "attack": 60,
+    "defense": 50,
+    "speed": 2,
+    "type": "NORMAL"
+  },
+  {
+    "name": "프리져",
+    "health": 180,
+    "attack": 90,
+    "defense": 50,
+    "speed": 4,
+    "type": "ICE"
+  },
+  {
+    "name": "썬더",
+    "health": 180,
+    "attack": 95,
+    "defense": 50,
+    "speed": 5,
+    "type": "ELECTRIC"
+  },
+  {
+    "name": "파이어",
+    "health": 180,
+    "attack": 100,
+    "defense": 45,
+    "speed": 5,
+    "type": "FIRE"
+  },
+  {
+    "name": "갸라도스",
+    "health": 190,
+    "attack": 95,
+    "defense": 50,
+    "speed": 4,
+    "type": "WATER"
+  },
+  {
+    "name": "헤라크로스",
+    "health": 180,
+    "attack": 95,
+    "defense": 50,
+    "speed": 3,
+    "type": "BUG"
+  },
+  {
+    "name": "핫삼",
+    "health": 170,
+    "attack": 90,
+    "defense": 45,
+    "speed": 4,
+    "type": "BUG"
+  },
+  {
+    "name": "마릴",
+    "health": 130,
+    "attack": 70,
+    "defense": 40,
+    "speed": 3,
+    "type": "WATER"
+  },
+  {
+    "name": "라플레시아",
+    "health": 140,
+    "attack": 75,
+    "defense": 40,
+    "speed": 2,
+    "type": "GRASS"
+  },
+  {
+    "name": "후딘",
+    "health": 140,
+    "attack": 70,
+    "defense": 30,
+    "speed": 5,
+    "type": "PSYCHIC"
+  },
+  {
+    "name": "팬텀",
+    "health": 150,
+    "attack": 90,
+    "defense": 40,
+    "speed": 3,
+    "type": "GHOST"
+  },
+  {
+    "name": "망나뇽",
+    "health": 180,
+    "attack": 100,
+    "defense": 50,
+    "speed": 5,
+    "type": "DRAGON"
+  },
+  {
+    "name": "뮤츠",
+    "health": 200,
+    "attack": 100,
+    "defense": 50,
+    "speed": 5,
+    "type": "PSYCHIC"
+  }
+]

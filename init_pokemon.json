@@ -1,0 +1,26 @@
+[
+  {
+    "name": "파이리",
+    "health": 140,
+    "attack": 70,
+    "defense": 35,
+    "speed": 4,
+    "type": "FIRE"
+  },
+  {
+    "name": "꼬부기",
+    "health": 180,
+    "attack": 55,
+    "defense": 40,
+    "speed": 2,
+    "type": "WATER"
+  },
+  {
+    "name": "이상해씨",
+    "health": 200,
+    "attack": 60,
+    "defense": 50,
+    "speed": 3,
+    "type": "GRASS"
+  }
+]
